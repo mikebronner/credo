@@ -1,13 +1,13 @@
 # My Credo
 
-## Self
+## In Regard To Self
 
 ### Responsibility
 - defend your individual rights:
   - do not allow others to harm you or your dependents
   - do not allow others to manipulate your property without invitation
 
-## Others
+## In Regard To Others
 
 ### Rights
 - do not infringe on the individual rights of others:
