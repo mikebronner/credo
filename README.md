@@ -31,7 +31,14 @@
 - do not cast your support along party lines
 - support individuals that uphold these principles
 
-### Spheres of Influence in Order of Importance
+## Truth
+- Hold truth dear, seek it out in everything you do
+- Hold yourself to be truthful
+- Hold those in your spheres of influence to be truthful
+- Instill the importance of truth in your dependents
+- Seek to understand the true meaning of things, and only then come to a decision
+
+## Spheres of Influence in Order of Importance
 1. Self
 2. Family
 3. Kin, Friends
