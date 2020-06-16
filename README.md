@@ -34,8 +34,8 @@
 
 ## Truth
 - Hold truth dear, seek it out in everything you do
-- Hold yourself to be truthful
-- Hold those in your spheres of influence to be truthful
+- Require yourself to be truthful
+- Require those in your spheres of influence to be truthful
 - Instill the importance of truth in your dependents
 - Seek to understand the true meaning of things, and only then come to a decision
 
