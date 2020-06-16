@@ -31,6 +31,16 @@
 - do not cast your support along party lines
 - support individuals that uphold these principles
 
+### Spheres of Influence in Order of Importance
+1. Self
+2. Family
+3. Kin, Friends
+4. Local Government
+5. State Government
+6. National Government
+
+Rule: never prioritize the rights and responsibilities of one sphere above the rights and responsibilities of a higher-ranking sphere.
+
 ### Notes to be organized
 - honor your father and mother in everything you do.
 - act in ways that won't cause regret.
