@@ -69,6 +69,7 @@ Never prioritize the rights of and your responsibilities to one sphere above the
   - recognize dishonesty
 
 ### Definitions to be added
+- credo
 - rights
 - responsbilities
 - duties
