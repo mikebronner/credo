@@ -26,7 +26,7 @@
   - recognize honesty
   - recognize dishonesty
 
-### Definitions
+### Definitions to be added
 - rights
 - responsbilities
 - duties
