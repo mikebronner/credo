@@ -50,7 +50,7 @@
 Never prioritize the rights of and your responsibilities to one sphere above the rights of and your responsibilities to a higher-ranking sphere.
 
 ### Notes to be organized
-- honor your father and mother in everything you do.
+- honor your father and mother in everything you do ("thou hast forgotten the face of your father!" -Stephen Kind, The Dark Towers)
 - act in ways that won't cause regret.
 - treat each individual with respect.
 - consider each individual as a person driven by needs, fears, and ambitions.
