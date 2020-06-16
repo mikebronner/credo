@@ -51,6 +51,14 @@ Never prioritize the rights of and your responsibilities to one sphere above the
 
 ### Notes to be organized
 - honor your father and mother in everything you do ("thou hast forgotten the face of your father!" -Stephen Kind, The Dark Towers)
+  >I do not aim with my hand; he who aims with his hand has forgotten the face of his father.
+  >I aim with my eye.
+  >
+  >I do not shoot with my hand; he who shoots with his hand has forgotten the face of his father.
+  >I shoot with my mind.
+  >
+  >I do not kill with my gun; he who kills with his gun has forgotten the face of his father.
+  >I kill with my heart.
 - act in ways that won't cause regret.
 - treat each individual with respect.
 - consider each individual as a person driven by needs, fears, and ambitions.
