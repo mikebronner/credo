@@ -39,7 +39,7 @@
 5. State Government
 6. National Government
 
-Rule: never prioritize the rights of and your responsibilities to one sphere above the rights of and your responsibilities to a higher-ranking sphere.
+Never prioritize the rights of and your responsibilities to one sphere above the rights of and your responsibilities to a higher-ranking sphere.
 
 ### Notes to be organized
 - honor your father and mother in everything you do.
