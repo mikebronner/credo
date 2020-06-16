@@ -10,7 +10,7 @@
 ## Others
 
 ### Rights
-- do not infringe on individual rights of others:
+- do not infringe on the individual rights of others:
   - do nothing that would harm them
   - do nothing that would affect their property without their permission
 
@@ -25,3 +25,9 @@
   - recognize their bad deeds
   - recognize honesty
   - recognize dishonesty
+
+### Definitions
+- rights
+- responsbilities
+- duties
+- priveleges
