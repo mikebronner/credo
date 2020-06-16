@@ -28,7 +28,7 @@
 
 ### Groups / Organizations / Political Parties
 - do not support groups or organizations that compromise any of these principles
-- do not support groups that garner support through compromise
+- do not support groups that garner support through compromising of values (not in the sense of coming to agreement, needs clarification)
 - do not cast your support along party lines
 - support individuals that uphold these principles
 
