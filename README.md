@@ -59,7 +59,7 @@ Never prioritize the rights of and your responsibilities to one sphere above the
   >
   >I do not kill with my gun; he who kills with his gun has forgotten the face of his father.
   >I kill with my heart.
-- act in ways that won't cause regret.
+- act in ways that won't cause regret (with what you know when making the decision, is it the best possible decision)
 - treat each individual with respect.
 - consider each individual as a person driven by needs, fears, and ambitions.
 - recognize each individual for the person they are:
