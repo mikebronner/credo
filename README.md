@@ -17,6 +17,7 @@
 - continue the persuit of knowledge throughout your life
 - do not speak out of turn
 - listen 80%, talk 20%
+- understand what rights you have and what priveledges you have been bestowed, and most importantly, clearly understand the distinction
 
 ## In Regard To Others
 
