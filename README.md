@@ -50,7 +50,7 @@
 Never prioritize the rights of and your responsibilities to one sphere above the rights of and your responsibilities to a higher-ranking sphere.
 
 ### Notes to be organized
-- honor your father and mother in everything you do ("thou hast forgotten the face of your father!" -Stephen Kind, The Dark Towers)
+- honor your father and mother in everything you do ("thou hast forgotten the face of your father!" -Stephen King, The Dark Towers)
   >I do not aim with my hand; he who aims with his hand has forgotten the face of his father.
   >I aim with my eye.
   >
