@@ -10,14 +10,14 @@
 ### Respect
 - always respect yourself:
   - do not pander to others
-  - do not treat others injustly or with prejudice
+  - do not treat others unjustly or with prejudice
 
 ### Growth
 - keep an open mind
-- continue the persuit of knowledge throughout your life
+- continue the pursuit of knowledge throughout your life
 - do not speak out of turn
 - listen 80%, talk 20%
-- understand what rights you have and what priveledges you have been bestowed, and most importantly, clearly understand the distinction
+- understand what rights you have and what privileges you have been bestowed, and most importantly, clearly understand the distinction
 
 ## In Regard To Others
 
@@ -33,7 +33,7 @@
 - support individuals that uphold these principles
 
 ## Truth
-- Hold truth dear, seek it out in everything you do
+- Hold truth dear: seek it out in everything you do
 - Require yourself to be truthful
 - Require those in your spheres of influence to be truthful
 - Instill the importance of truth in your dependents
