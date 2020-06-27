@@ -67,6 +67,8 @@ Never prioritize the rights of and your responsibilities to one sphere above the
   - recognize their bad deeds
   - recognize honesty
   - recognize dishonesty
+- when confronting an issue where someone asks something of you that you don't believe in, explain the business impact it will have. If other party still insists, concede to making a temporary exception, with the goal of figuring out a proper solution afterwards by scheduling a meeting NOW for developing the a proper solution together.
+  - If it's outside of a business relationship, just say no.
 
 ### Definitions to be added
 - credo
