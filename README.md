@@ -76,3 +76,4 @@ Never prioritize the rights of and your responsibilities to one sphere above the
 - responsbilities
 - duties
 - priveleges
+- compromise
