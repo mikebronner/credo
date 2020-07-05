@@ -73,7 +73,7 @@ Never prioritize the rights of and your responsibilities to one sphere above the
 - happiness is achieved when your goals and behavior align
   - compare behavior, action, effort to your wants, desires, goals
   - you need to be clear on what you goals are, so that you can alwys make adjustments in your behavior, action, effort, so that you can achieve them.
-- always tell the truth. it will not inconvenience you as long as you are truthful. it will expose thise who do not tell the truth for what they are. if you had considered them your friends, the truth will set you free.
+- always tell the truth. it will not inconvenience you as long as you are truthful. it will expose thise who do not tell the truth for what they are. if you had considered them your friends, the truth will set you free. Truth demands people take responsibility.
 
 ### Definitions to be added
 - credo
