@@ -40,7 +40,7 @@
 - Seek to understand the true meaning of things, and only then come to a decision
 
 ### Falacies
-Understand and recognize falacies when you encounter them. Fallacies can be either illegitimate arguments or irrelevant points, and are often identified because they lack evidence that supports their claim.
+Understand and recognize falacies when you encounter them. Fallacies can be either illegitimate arguments or irrelevant points, and are often identified because they lack evidence that supports their claim. (These are taken from https://owl.purdue.edu/owl/general_writing/academic_writing/logic_in_argumentative_writing/fallacies.html for the time being, until I can rewrite them in my own words, so I don't forget.)
 
 #### Slippery Slope
 This is a conclusion based on the premise that if A happens, then eventually through a series of small steps, through B, C,..., X, Y, Z will happen, too, basically equating A and Z. So, if we don't want Z to occur, A must not be allowed to occur either.
