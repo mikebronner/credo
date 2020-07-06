@@ -32,6 +32,13 @@
 - do not cast your support along party lines
 - support individuals that uphold these principles
 
+## Giving
+- offer your help, assistance, or time to your friends, family, relationships, and business aquaintances
+- do not expect anything in return
+- if you notice that a specific recipient is being entitled and always demanding more without reciprocating, do not continue giving to them
+- this will open doors for you in unexpected ways
+- TBA: create a definition of things you should and shouldn't give. For example, giving away your professional services when you can't afford to
+
 ## Truth
 - Hold truth dear: seek it out in everything you do
 - Require yourself to be truthful
