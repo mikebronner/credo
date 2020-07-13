@@ -26,6 +26,7 @@
 - never loose the beginner's mindset (shoshin). remember, we don't really know anything.
 - surround yourself with others that are more successful than you
 - obsess over reaching your goals
+- running a business is not about you. it's about your clients.
 
 ## In Regard To Others
 
