@@ -24,6 +24,7 @@
 - finish everything and anything you start
 - never stop learning
 - surround yourself with others that are more successful than you
+- obsess over reaching your goals
 
 ## In Regard To Others
 
