@@ -19,6 +19,12 @@
 - listen 80%, talk 20%
 - understand what rights you have and what privileges you have been bestowed, and most importantly, clearly understand the distinction
 
+### Success
+- always strive to be the best at what you do
+- finish everything and anything you start
+- never stop learning
+- surround yourself with others that are more successful than you
+
 ## In Regard To Others
 
 ### Rights
